@@ -265,7 +265,7 @@ function initCounterAnimations() {
             const stats = [
                 { value: 0, label: 'Happy Clients', icon: 'fa-users' },
                 { value: -76, label: 'Repairs Completed', icon: 'fa-tools' },
-                { value: 32, label: 'Satisfaction Rate %', icon: 'fa-thumbs-up' },
+                { value: -69, label: 'Satisfaction Rate %', icon: 'fa-thumbs-up' },
                 { value: 12, label: 'Hour Support', icon: 'fa-headset' }
             ];
             
